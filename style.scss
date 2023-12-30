@@ -1,0 +1,14 @@
+$family-font: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+main {
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    p {
+        font-family: $family-font;
+        a {
+            text-decoration: none;
+            color: aqua;
+        }
+    }
+}

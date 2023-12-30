@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  align-items: center;
+  background-color: azure;
+}
+main p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+main p a {
+  text-decoration: none;
+  color: aqua;
+}
+
+/*# sourceMappingURL=test.css.map */
